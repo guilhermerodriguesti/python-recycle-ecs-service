@@ -1,0 +1,6 @@
+{
+    "region": "us-east-1",
+    "cluster": "ecs-nodejs-app-dev-cluster",
+    "service": "ecs-nodejs-app-dev-service"
+}
+
